@@ -1,0 +1,44 @@
+customer_id,company_name,plan,mrr_usd,last_login_at,open_support_tickets,usage_last_30d,usage_prev_30d,contract_end_date,hubspot_company_id,hubspot_owner_id,owner_email
+C-1023,Clínica Quilla SAC,Growth,1130,2026-10-15T23:11:37Z,1,1746,1434,2027-08-17,,,ana.cs@example.com
+C-1015,Pesquera Pacífico SAC,Starter,350,2026-10-19T09:11:37Z,0,368,597,2027-02-14,,,luis.cs@example.com
+C-1001,Logística Andina SAC,Enterprise,8400,2026-09-09T00:11:37Z,4,780,5200,2026-11-16,,,ana.cs@example.com
+C-1033,Agroexport Sol Norte SAC,Growth,1260,2026-10-16T11:11:37Z,1,1178,1235,2027-02-05,,,luis.cs@example.com
+C-1035,Minera Andina EIRL,Starter,470,2026-09-19T23:11:37Z,3,326,474,2027-01-09,,,ana.cs@example.com
+C-1014,Retail Cordillera SA,Starter,560,2026-10-19T00:11:37Z,1,837,839,2027-09-12,,,ana.cs@example.com
+C-1031,Pesquera Andina SA,Growth,1260,2026-10-15T22:11:37Z,0,1864,1936,2026-12-27,,,marta.cs@example.com
+C-1008,Pesquera Altiplano EIRL,Starter,300,2026-10-16T21:11:37Z,1,316,287,2027-01-16,,,ana.cs@example.com
+C-1022,Clínica Costa Verde SAC,Growth,1350,2026-10-18T07:11:37Z,0,4366,3970,2027-01-04,,,marta.cs@example.com
+C-1032,Retail Altiplano SAC,Enterprise,5150,2026-10-18T12:11:37Z,1,7797,6459,2027-03-16,,,ana.cs@example.com
+C-1004,Pesquera Cordillera SA,Growth,1480,2026-09-25T12:11:37Z,2,2342,3787,2027-08-17,,,marta.cs@example.com
+C-1027,Logística Pacífico EIRL,Starter,310,2026-10-16T04:11:37Z,5,314,325,2027-01-22,,,luis.cs@example.com
+C-1038,Clínica Pacífico EIRL,Starter,520,2026-10-15T21:11:37Z,0,503,451,2027-06-20,,,ana.cs@example.com
+C-1006,Pesquera Titicaca SAC,Growth,2290,2026-10-20T00:11:37Z,4,2717,2489,2027-09-14,,,luis.cs@example.com
+C-1025,Educación Pacífico SAC,Growth,1990,2026-10-18T08:11:37Z,1,3476,3184,2027-07-06,,,marta.cs@example.com
+C-1030,Textiles Cordillera SA,Starter,300,2026-10-18T00:11:37Z,0,701,669,2027-06-17,,,luis.cs@example.com
+C-1009,Constructora Sol Norte SAC,Starter,460,2026-10-13T13:11:37Z,0,457,410,2027-08-01,,,luis.cs@example.com
+C-1021,Agroexport Altiplano EIRL,Enterprise,3020,2026-10-18T19:11:37Z,0,3527,3153,2027-06-17,,,luis.cs@example.com
+C-1019,Logística Amazonas SA,Starter,530,2026-10-15T07:11:37Z,0,645,533,2027-03-16,,,marta.cs@example.com
+C-1039,Agroexport Titicaca SA,Starter,240,2026-09-20T17:11:37Z,3,358,515,2027-02-22,,,luis.cs@example.com
+C-1013,Educación Costa Verde SAC,Growth,1170,2026-09-03T13:11:37Z,6,1356,3961,2026-11-21,,,marta.cs@example.com
+C-1036,Logística Quilla SA,Enterprise,5120,2026-09-25T04:11:37Z,3,2593,4652,2027-04-12,,,luis.cs@example.com
+C-1002,Minera Altiplano SAC,Growth,1190,2026-09-22T19:11:37Z,3,1122,1618,2026-12-16,,,ana.cs@example.com
+C-1040,Logística Altiplano SAC,Enterprise,3280,2026-10-14T20:11:37Z,0,6278,5847,2026-12-01,,,marta.cs@example.com
+C-1010,Fintech Quilla SA,Enterprise,6630,2026-09-19T08:11:37Z,3,2609,3745,2027-03-17,,,marta.cs@example.com
+C-1028,Agroexport Cordillera SAC,Starter,600,2026-09-10T09:11:37Z,6,49,296,2026-11-24,,,marta.cs@example.com
+C-1037,Retail Andina SA,Starter,170,2026-09-01T00:11:37Z,7,143,477,2026-11-21,,,marta.cs@example.com
+C-1016,Educación Amazonas SAC,Growth,850,2026-10-19T19:11:37Z,1,1476,1347,2027-01-24,,,marta.cs@example.com
+C-1003,Fintech Pacífico EIRL,Starter,320,2026-10-16T11:11:37Z,0,208,204,2027-01-17,,,luis.cs@example.com
+C-1011,Fintech Inti SA,Starter,480,2026-09-24T17:11:37Z,3,533,827,2027-02-11,,,ana.cs@example.com
+C-1024,Textiles Amazonas EIRL,Starter,590,2026-09-26T14:11:37Z,3,167,264,2027-06-18,,,luis.cs@example.com
+C-1017,Fintech Andina SAC,Growth,1730,2026-10-16T13:11:37Z,0,3964,3440,2027-07-04,,,ana.cs@example.com
+C-1020,Logística Cordillera SA,Starter,520,2026-10-14T08:11:37Z,1,1107,878,2027-08-29,,,ana.cs@example.com
+C-1034,Minera Sol Norte SAC,Starter,350,2026-10-19T16:11:37Z,1,406,427,2026-12-08,,,marta.cs@example.com
+C-1026,Agroexport Costa Verde SA,Enterprise,4770,2026-10-17T21:11:37Z,0,5109,4123,2027-06-05,,,ana.cs@example.com
+C-1007,Minera Titicaca SAC,Growth,1000,2026-09-25T09:11:37Z,3,2403,3466,2027-05-09,,,marta.cs@example.com
+C-1005,Agroexport Amazonas SAC,Starter,200,2026-10-14T10:11:37Z,1,252,268,2027-02-18,,,ana.cs@example.com
+C-1012,Textiles Inti SA,Starter,270,2026-10-15T16:11:37Z,1,241,229,2026-11-18,,,luis.cs@example.com
+C-1029,Constructora Altiplano SAC,Growth,1410,2026-09-09T11:11:37Z,6,1056,2654,2026-11-20,,,ana.cs@example.com
+C-1018,Fintech Amazonas SAC,Starter,160,2026-10-19T18:11:37Z,0,383,342,2027-06-14,,,luis.cs@example.com
+C-1023,Clínica Quilla SAC,Growth,1130,2026-10-15T23:11:37Z,1,1746,1434,2027-08-17,,,ana.cs@example.com
+C-9001,Pesquera Pacífico SAC,Starter,350,ayer por la tarde,0,368,597,2027-02-14,,,luis.cs@example.com
+C-9002,Logística Andina SAC,Enterprise,8400,2026-09-09T00:11:37Z,-2,780,5200,2026-11-16,,,ana.cs@example.com

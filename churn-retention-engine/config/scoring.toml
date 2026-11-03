@@ -1,0 +1,37 @@
+# Modelo de scoring de churn: suma ponderada de señales normalizadas a 0-100.
+# Cada señal pasa por una rampa lineal: 0 puntos en `low` o menos, 100 puntos en `high` o más.
+
+[weights]                      # deben sumar 1.0
+login_inactivity = 0.40
+support_pressure = 0.25
+usage_drop       = 0.35
+
+[ramps.login_inactivity]       # días desde el último login
+low  = 7
+high = 45
+
+[ramps.support_pressure]       # tickets de soporte abiertos
+low  = 0
+high = 5
+
+[ramps.usage_drop]             # caída de uso (%) frente a los 30 días previos
+low  = 10
+high = 70
+
+[risk_levels]                  # umbrales sobre el score ya redondeado a 1 decimal
+alto_min  = 70
+medio_min = 40
+
+[alerts]
+driver_min_component = 50      # una señal aparece como causa si aporta 50 puntos o más
+cooldown_hours       = 72      # no repetir alerta del mismo cliente dentro de esta ventana
+escalation_delta     = 10      # salvo que suba de nivel o el score crezca al menos esto
+
+[alerts.due_hours]             # plazo de la tarea en HubSpot según el nivel
+Alto  = 24
+Medio = 72
+Bajo  = 168
+
+[guardrail]                    # protección contra datos de origen rotos
+max_alto_ratio = 0.40          # si más de este % del dataset sale en Alto, no se envía nada
+min_rows       = 20            # el control solo aplica con al menos estas filas válidas
